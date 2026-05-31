@@ -1,0 +1,24 @@
+cars.xml
+*.xml
+
+# Jupyter auto checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env
+
+# Logs
+*.log
+
+# Large data/models
+*.csv
+*.h5
+*.pkl
+*.joblib
+*.model
