@@ -22,3 +22,6 @@ venv/
 *.pkl
 *.joblib
 *.model
+UnsupervisedL/*.csv
+Mall_Customers.csv
+customer.csv
