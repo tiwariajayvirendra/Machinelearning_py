@@ -25,3 +25,5 @@ venv/
 UnsupervisedL/*.csv
 Mall_Customers.csv
 customer.csv
+
+./env
